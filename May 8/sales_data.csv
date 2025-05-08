@@ -1,0 +1,15 @@
+Date,Product,Category,Region,Units_Sold,Price
+2025-05-01,Laptop,Electronics,North,5,600
+2025-05-01,Headphones,Electronics,East,15,80
+2025-05-02,Shirt,Clothing,South,25,20
+2025-05-02,Mobile,Electronics,North,10,500
+2025-05-03,Jeans,Clothing,West,30,35
+2025-05-03,Tablet,Electronics,East,7,300
+2025-05-04,Shoes,Footwear,South,12,45
+2025-05-04,Smartwatch,Electronics,West,8,150
+2025-05-05,Jacket,Clothing,North,6,100
+2025-05-05,Sandals,Footwear,East,20,25
+2025-05-06,TV,Electronics,South,4,800
+2025-05-06,Shirt,Clothing,West,18,20
+2025-05-07,Mobile,Electronics,North,9,500
+2025-05-07,Shoes,Footwear,East,14,45
